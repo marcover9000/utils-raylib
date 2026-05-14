@@ -1,8 +1,6 @@
 #pragma once
 // sistema de profunditat semi-3D estil FF Tactics: grid isomètric/dimetric
 // amb alçada per tile i depth-sort per pintar sprites en l'ordre correcte.
-//
-// EN DESENVOLUPAMENT — no inclòs a utils.hpp encara.
 
 #include "raylib.h"
 #include "math.hpp"

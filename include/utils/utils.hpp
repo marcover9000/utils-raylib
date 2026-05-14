@@ -5,3 +5,4 @@
 #include "rect.hpp"
 #include "random.hpp"
 #include "color.hpp"
+#include "depth.hpp"
